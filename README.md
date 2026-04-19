@@ -32,3 +32,5 @@ else { ... acertado = true; } — si no era ni menor ni mayor, el intento es exa
 if (!acertado) — justo antes de evaluar la condición del bucle, si todavía no acertó, imprime "Inténtalo de nuevo...". El ! es el operador negación (NOT).
 } while (!acertado); — condición de repetición: el bucle continúa mientras acertado sea false. En el momento en que se vuelve true, el bucle termina y no se vuelve a mostrar el menú.
 scanner.close(); — libera los recursos del Scanner.
+
+Link diapositva Ciclo do-while: https://canva.link/f31i2sbohk1t27a
